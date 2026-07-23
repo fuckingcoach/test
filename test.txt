@@ -3,3 +3,4 @@ AAAAAAAAAAAAAAAAAAAAA
 BBBBBBBBBBBBBBBBBBBBBBBBBB
 really?
 git fetch test
+fetch twice
